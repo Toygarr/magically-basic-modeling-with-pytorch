@@ -1,2 +1,3 @@
-# magical-modeling-with-pytorch
-Neural Nets, RNN, BiLSTM, seq2seq, Transformers and more
+## Basic Implementations of fundamental structures in PyTorch
+
+This repo will have many PyTorch implementations.\
