@@ -1,3 +1,3 @@
-## Basic Implementations of fundamental structures in PyTorch
+## Basic Implementations of FundamentalStructures in PyTorch
 
 This repo will have many PyTorch implementations.
